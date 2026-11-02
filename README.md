@@ -13,6 +13,7 @@
 * Integrated encrypted container for SSH secrets and configuration
 * SSH, SFTP and Telnet client available as a web app (also self-hosted).
 
+<img width="2799" height="1800" alt="ocs_home_en" src="https://github.com/user-attachments/assets/d5d88cb2-8fd8-4284-a716-fea2d8b20834" />
 
 <img width="2800" height="1800" alt="ocs_home" src="https://github.com/user-attachments/assets/58154795-4d4a-42ea-a3fe-c0abff278770" />
 
