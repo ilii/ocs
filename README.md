@@ -1,10 +1,8 @@
 # ocs
 
-## The future terminal will be lightning fast.
+### OCS is a terminal tool with ultimate performance and experience. SSH and serial client for Linux、macOS and Windows
+### The future terminal will be lightning fast.
 ### Powered by pure Rust.
-
-### OCS is a terminal tool with ultimate performance and experience., SSH and serial client for Linux、macOS and Windows
-
 
 * Integrated SSH and Telnet client and connection manager
 * Integrated serial terminal
