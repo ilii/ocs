@@ -12,6 +12,7 @@
 * Doesn't choke on fast-flowing outputs
 * Integrated encrypted container for SSH secrets and configuration
 * SSH, SFTP and Telnet client available as a web app (also self-hosted).
+* AI - Support for AI collaboration MCP functionality
 
 <img width="2799" height="1800" alt="ocs_home_en" src="https://github.com/user-attachments/assets/d5d88cb2-8fd8-4284-a716-fea2d8b20834" />
 
